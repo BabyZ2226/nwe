@@ -1,0 +1,8 @@
+{
+  "name": "Remix Juegos-didacticos",
+  "description": "Imported from GitHub: BabyZ2226/Juegos-didacticos",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
